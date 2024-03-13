@@ -3,9 +3,9 @@
 
 a simple frame to create a poll and write results to a postgres db
 
-//npm install
+npm install
 
-//npm run dev
+npm run dev
 
 http://localhost:5173/api
 
